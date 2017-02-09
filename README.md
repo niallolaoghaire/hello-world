@@ -1,2 +1,2 @@
 # hello-world
-My forst repository
+My first repository
